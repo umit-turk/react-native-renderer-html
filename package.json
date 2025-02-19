@@ -1,6 +1,6 @@
 {
   "name": "react-native-renderer-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful HTML renderer for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -20,7 +20,7 @@
     "parser",
     "expo"
   ],
-  "author": "",
+  "author": "Ümit Türk",
   "license": "MIT",
   "dependencies": {
     "node-html-parser": "^6.1.13",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/react-native-renderer-html.git"
+    "url": "git+https://github.com/umit-turk/react-native-renderer-html.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-native-renderer-html/issues"
+    "url": "https://github.com/umit-turk/react-native-renderer-html/issues"
   },
-  "homepage": "https://github.com/yourusername/react-native-renderer-html#readme"
+  "homepage": "https://github.com/umit-turk/react-native-renderer-html#readme"
 }

@@ -1,5 +1,7 @@
 # React Native HTML Renderer
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?style=flat&logo=github)](https://github.com/umit-turk/react-native-renderer-html)
+
 A powerful and flexible HTML rendering solution for React Native applications. Transform your HTML content into beautiful native components with full styling support and interactive elements.
 
 
@@ -15,6 +17,13 @@ A powerful and flexible HTML rendering solution for React Native applications. T
 - 📦 **TypeScript Support**: Full TypeScript definitions included
 - 🛡️ **Error Handling**: Robust error handling and fallback options
 - 🎭 **Customizable Components**: Override default components with custom implementations
+
+
+![Image](https://github.com/user-attachments/assets/27c87d5e-30cd-4d6b-9267-6f24cd555f09)
+
+![Image](https://github.com/user-attachments/assets/884159b1-6f0b-4f21-a8fd-d3f7586ad00f)
+
+![Image](https://github.com/user-attachments/assets/d0b2f685-f002-4bdc-844b-8200792e9d74)
 
 ## 📦 Installation
 
@@ -43,6 +52,7 @@ yarn add expo-image node-html-parser
 ```
 
 ## 🚀 Basic Usage
+
 
 ```jsx
 import React from 'react';
@@ -271,8 +281,3 @@ customStyles={{
 }}
 ```
 
-## 📱 Advanced Usage
-
-### Custom Component Overrides
-
-```# react-native-renderer-html
