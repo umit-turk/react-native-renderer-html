@@ -4,7 +4,7 @@
 
 A powerful and flexible HTML rendering solution for React Native applications. Transform your HTML content into beautiful native components with full styling support and interactive elements.
 
-Now you can buy me a coffee
+## Now you can buy me coffee
 <a href="https://www.buymeacoffee.com/umityasarturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
